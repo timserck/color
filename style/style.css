@@ -1,0 +1,16 @@
+body{
+			-webkit-transition: all 1s;
+			-moz-transition: all 1s;
+			transition: all 1s;
+		}
+
+		#hours{
+			top: 50%;
+			left: 50%;
+			position: absolute;
+			-webkit-transform: translate(-50%,-50%);
+			-moz-transform: translate(-50%,-50%);
+			transform: translate(-50%,-50%);
+			font-size: 5rem;
+		}
+	
