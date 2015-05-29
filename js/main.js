@@ -1,4 +1,4 @@
-		<script>
+
 
 
 // Project by TImothée Serck for the courses of Mr Kishy
@@ -140,4 +140,3 @@ var tableau = [];
 				
 			}, 1000);
 
-		</script>
